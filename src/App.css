@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  max-width: 800;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+
+.test {
+  background: blueviolet;
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  padding: 20px;
+}
